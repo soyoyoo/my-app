@@ -1,8 +1,8 @@
 
-import ChatApp2 from './test/ChatApp2.jsx';
+import Canvas3 from './test/Canvas3.jsx';
 
 export default function App() {
   return (
-      <ChatApp2 />
+      <Canvas3 />
   );
 }
